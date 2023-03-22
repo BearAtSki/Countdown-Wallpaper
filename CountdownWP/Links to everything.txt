@@ -1,0 +1,38 @@
+Image Magick Command line documentation:
+https://imagemagick.org/script/command-line-processing.php
+
+
+Bacground Image
+https://www.pexels.com/photo/lake-with-green-leafed-trees-1198817/
+
+
+CODE EDITORS:
+
+Notepad++
+https://notepad-plus-plus.org/
+
+VisualStudio Code
+https://code.visualstudio.com/
+
+Brackets
+https://brackets.io/
+
+
+After Effects FXAA plugin
+https://www.plugineverything.com/fxaa
+
+
+PowerShell script to change background
+https://www.joseespitia.com/2017/09/15/set-wallpaper-powershell-function/
+
+
+FONTS:
+
+Eurostile
+https://fonts.adobe.com/fonts/eurostile
+
+League Gothic
+https://fonts.adobe.com/fonts/league-gothic
+https://www.fontsquirrel.com/fonts/league-gothic
+
+
