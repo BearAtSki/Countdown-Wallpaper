@@ -20,7 +20,7 @@ bgImg = "BG.jpg"
 compDir = "comp"
 
 ' ImageMagic: use "magick" for normal installs, path to magick.exe (ex. "C:\ImageMagick\magick.exe") for the portable version
-imgMgc = "C:\ImageMagick\magick.exe"
+imgMgc = "magick"
 
 ' Position of the countdown image, ex: "-gravity center" for centered, "-geometry +15+25" to move from top left corner on the x and y coordinates by pixel value
 imgPos = "-gravity center"
