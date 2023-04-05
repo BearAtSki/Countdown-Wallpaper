@@ -50,9 +50,9 @@ Set folder2 = fso.GetFolder(cdFolder)
 dateMonth = Right(String(2, "0") & Month(Date), 2)
 dateDay = Right(String(2, "0") & Day(Date), 2)
 
-dateYear = Right(Year(dtNew), 2)
+dateYear = Right(Year(Date), 2)
 'The current date in YYMMDD format
-dateToday = dateMonth & dateDay
+dateToday = dateYear & dateMonth & dateDay
 
 ' Loop over the CountDown images, to find out if there's an image for the current day
 For Each file In folder.Files
