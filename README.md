@@ -7,7 +7,7 @@ Image Magick is awesome. This was my first time using it, but definitely not the
 
 <br/>
 
-[<img src="https://img.youtube.com/vi/JknoggMT1Sk/maxresdefault.jpg" width=500>](https://youtu.be/JknoggMT1Sk)
+<a href="https://youtu.be/JknoggMT1Sk" target="_blank"><img src="https://img.youtube.com/vi/JknoggMT1Sk/maxresdefault.jpg" width=500></a>
 
 This YouTube video walks you through the setup process: 
  - customizing the design,
