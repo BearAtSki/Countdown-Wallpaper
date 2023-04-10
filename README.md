@@ -6,9 +6,10 @@ The design was made in Adobe Illustrator, used After Effects to animate it and I
 Image Magick is awesome. This was my first time using it, but definitely not the last.
 
 <br/>
-![Countdown-Wallpaper-thumbnail](https://img.youtube.com/vi/JknoggMT1Sk/maxresdefault.jpg)
 
-[**This YouTube video**](https://youtu.be/JknoggMT1Sk) walks you through the setup process: 
+[<img src="https://img.youtube.com/vi/JknoggMT1Sk/maxresdefault.jpg" width=500>](https://youtu.be/JknoggMT1Sk)
+
+This YouTube video walks you through the setup process: 
  - customizing the design,
  - rendering out the countdown images,
  - setting up the project files / folders,
